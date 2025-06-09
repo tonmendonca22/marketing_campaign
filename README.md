@@ -22,7 +22,7 @@ The dataset (`marketing_campaign_data.csv`) includes detailed information for 1,
 
 In addition to the interactive web-based analysis, a **Power BI dashboard** was created to provide business-friendly data visualizations and filtering capabilities.
 
-Access the interactive dashboard here: [▶️ View Dashboard](https://bit.ly/erivelton-mendonca_global_sales)
+Access the interactive dashboard here: [▶️ View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTY4ZGY4OWItM2MwNy00NjZlLWE3YTYtNTVjYmJiMDEwNWIzIiwidCI6ImVkYjI3OTMzLWY3OWEtNDNkYS1hZTNhLTNhYzk1ZjE1MDdlYSJ9)
 
 ---
 
