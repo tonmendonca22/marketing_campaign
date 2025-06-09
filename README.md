@@ -4,7 +4,7 @@ This project analyzes a comprehensive marketing campaign dataset to uncover insi
 
 ## 📁 Dataset Overview
 
-The dataset (`marketing_campaign_data.csv`) includes detailed information for 2,240 customers, covering:
+The dataset (`marketing_campaign_data.csv`) includes detailed information for 1,999 customers, covering:
 
 - **Demographics**:  
   `ID`, `Year_of_Birth`, `Education_Level`, `Marital_Status`, `Annual_Salary`, `Children_at_Home`, `Teens_at_Home`, `Country`
@@ -18,9 +18,17 @@ The dataset (`marketing_campaign_data.csv`) includes detailed information for 2,
 
 ---
 
+## 🔗 Power BI Dashboard
+
+In addition to the interactive web-based analysis, a **Power BI dashboard** was created to provide business-friendly data visualizations and filtering capabilities.
+
+Access the interactive dashboard here: [▶️ View Dashboard](https://bit.ly/erivelton-mendonca_global_sales)
+
+---
+
 ## 📈 Analysis Summary
 
-The data analysis was performed using **React** and **Recharts**, resulting in an interactive report that presents the following key insights:
+The data analysis was performed using **Power BI**, resulting in an interactive report that presents the following key insights:
 
 - **🇵🇹 Portugal** customers had the **highest average spending**, making them ideal targets for premium campaigns.
 - **🎓 Doctorate holders** had the **highest purchase rate**, despite lower spending, suggesting strong conversion potential.
@@ -30,5 +38,17 @@ The data analysis was performed using **React** and **Recharts**, resulting in a
 
 ---
 
-## 📂 Repository Structure
+## 🔍 Key Findings & Recommendations
+
+- 🎯 **Target Portugal** with premium offers due to high average spending.
+- 🧠 **Engage Doctorate holders** through personalized messaging strategies.
+- 💰 **Focus on the 61+ demographic** with high-value offerings.
+- 🌍 **Explore Chile’s budget-conscious customers** for scalable campaign models.
+- 📊 **Study Campaign 2's strategy** to replicate its effectiveness.
+
+---
+
+## 📬 Contact
+
+If you'd like to collaborate, give feedback, or have questions about the project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/erivelton-mendonca/) 
 
